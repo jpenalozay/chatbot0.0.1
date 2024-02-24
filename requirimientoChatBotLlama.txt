@@ -1,0 +1,5 @@
+streamlit
+openai
+llama-index==0.10.9
+nltk
+llama-index-readers-file===0.1.4
